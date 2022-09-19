@@ -1,4 +1,4 @@
-# Frog problem simulation in Rust - Very Fast
+# Frog problem simulation in Rust - Blazingly Fast
 
 ### Nothing crazy, just very quick implementation.
 
